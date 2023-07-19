@@ -16,13 +16,14 @@ File: Layout CSS
 @import url("portfolio.css");
 
 html{overflow-y:scroll;}
-body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:rgb(150, 51, 51); background-image:radial-gradient(white, rgb(53, 196, 231));}
+body{margin:0; padding:0; font-size:13px; font: "italic";  color:rgb(150, 51, 51); background-image:radial-gradient(white, rgb(53, 196, 231));}
 
 .justify{text-align:justify;}
 .bold{font-weight:bold;}
 .center{text-align:center;}
 .right{text-align:right;}
 .nostart{margin:0; padding:0; list-style-type:none;}
+.font{font:italic;}
 
 .clear::after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
 
@@ -33,7 +34,7 @@ a{outline:none; text-decoration:none;}
 
 .fl_left, .imgl{float:left;}
 
-.fl_right, .imgr{float:right;}
+.fl_right, .imgr{float: calc(50%);}
 
 img{margin:0; padding:0; border:none;}
 .imgl, .imgr{padding:4px; border:1px solid #D8D9DE;}
