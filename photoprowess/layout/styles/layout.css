@@ -130,10 +130,10 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 #footer{padding:30px ;display:flex;  line-height:1.6em;justify-content: center; flex-direction: column;align-items: center;}
 #footer h2, #footer p, #footer ul, #footer a, #footer address{margin:0; padding:0; font-weight:normal; list-style:none; line-height:1.6em; font-style:normal;}
-#footer{color:#CCCCCC; background-color:#333333;}
-#footer a{color:#FBF8CD; background-color:#333333;}
+#footer{color:#ffffff; background-color:#007791;}
+#footer a{color:#c3da5a; background-color:#33333300;}
 #footer .readmore a{display:inline; height:auto; padding-left:0; background:none;}
-#footer h2{margin-bottom:30px; font-style:italic; font-size:30px; line-height:normal; color:#B86365; background-color:#333333;}
+#footer h2{margin-bottom:30px; font-style:italic; font-size:30px; line-height:normal; color:#020101; background-color:#33333300;}
 #footer li{margin-bottom:15px;}
 #footer .border{padding-bottom:30px; margin-bottom:30px; border-bottom:1px solid #484848;}
 #footer .fl_left{display:block; width: 100%;}
