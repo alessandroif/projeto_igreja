@@ -80,15 +80,15 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 .readmore a{display:inline-block; height:33px; padding-left:10px; background:url("images/readmore_left.gif") top left no-repeat;}
 .readmore strong{padding:9px 10px 9px 0; line-height:33px; white-space:nowrap; background:url("images/readmore_right.gif") top right no-repeat;}
 
-#shout{display:block; width:900px; height:81px; margin:0 0 30px 0; padding:25px 30px 0 30px; color:#E5E5E5; background:url("images/shout_bg.gif") top left no-repeat #B86365;}
-#shout h2, #shout p{margin:0; padding:0; list-style:none; line-height:normal; font-style:normal; color:#E5E5E5; background-color:#B86365;}
+#shout{display:block; width:900px; height:81px; margin:0 0 30px 0; padding:25px 30px 0 30px; color:#640709; background:url("") top left no-repeat #007791;}
+#shout h2, #shout p{margin:0; padding:0; list-style:none; line-height:normal; font-style:normal; color:#E5E5E5;}     
 #shout h2{margin:-6px 0 6px 0; font-size:36px;}
 #shout p{font-size:18px;}
-#shout p a{display:block; width:279px; height:43px; padding:15px 0 0 0; font-size:26px; text-align:center; text-transform:uppercase; color:#E5E5E5; background:url("images/shout_a_bg.gif") top left no-repeat #CB8B8C;}
+#shout p a{display:block; width:279px; height:43px; padding:15px 0 0 0; font-size:26px; text-align:center; text-transform:uppercase; color:#E5E5E5; background:url("") top left no-repeat #00335f}
 
 #content{display:block; float:left; width:630px;}
 
-/* Comments */
+/* Comments */ 
 
 #comments{margin-bottom:40px;}
 #comments .commentlist{margin:0; padding:0;}
